@@ -1,7 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\Codelouisville.DataLayer\DL.csproj" />
+    
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="kevcoder.CodeLouisville.DataLayer" Version="1.0.0" />
   </ItemGroup>
 
   <PropertyGroup>

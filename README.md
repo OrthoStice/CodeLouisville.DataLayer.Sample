@@ -10,10 +10,7 @@ my goal is to demonstrate
 
 
 ## To use this sample
-1. download/clone this repo along with **[CodeLouisville.DataLayer](https://github.com/kcwms/Codelouisville.DataLayer)** project
-1. edit the Sample.csproj file to point to the *.csporj file in the CodeLouisville.DataLayer project.
-    1. if you place both projects in the same folder, this _should_ not be required
-1. run this project
+1. run with dotnet run
 
 
 ## Things to spark discussions... and questions
